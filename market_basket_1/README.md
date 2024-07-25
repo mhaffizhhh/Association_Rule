@@ -1,7 +1,7 @@
 # Market Basket
 
 ## About Dataset
-[Source](https://www.kaggle.com/datasets/ahmtcnbs/datasets-for-appiori)
+[Source](https://www.kaggle.com/datasets/ahmtcnbs/datasets-for-appiori).
 
 ## Technical Overview
 * Data preprocessing
